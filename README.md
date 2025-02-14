@@ -1,6 +1,7 @@
 ## 📚 About Me:
 
 
+- 🔥 I bring a developer mindset to solving problems.
 - 🔭 I’m currently working on Saucery, a .NET library for SauceLabs.
 - 👯 I’m looking to collaborate on Open Source tools and projects.
 - 🤔 I’m looking forward to helping people with any problem with .NET, DevOps, SauceLabs, or Automated Testing.
