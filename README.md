@@ -1,12 +1,12 @@
 ## 📚 About Me:
 
 
-- 🔭 I’m currently working on Saucery, a .NET library for SauceLabs.
+- 🔭 I’m currently working on Saucery, the .NET DesiredOption Factory for SauceLabs.
 - 👯 I’m looking to collaborate on Open Source tools and projects.
 - 🤔 I’m looking forward to helping people with any problem with .NET, DevOps, SauceLabs, or Automated Testing.
-- 💬 Ask me about Cloud Development, DevOps, SauceLabs and Automated Testing.
+- 💬 Ask me about Cloud-Native Development, DevOps, Automated Testing (Playwright, Selenium, Appium) or SauceLabs :).
 - 📰 Read my posts in Medium: [https://medium.com/@andrew.paul.gray/](https://medium.com/@andrew.paul.gray/)
-- ⚡ Fun fact: I write screenplays, make films and I love to play the guitar.
+- ⚡ Fun fact: I write features and make films for fun. I also play guitar.
 
 ## ☎️ Contact Me:
 
