@@ -21,9 +21,14 @@
 ## 📈 My Stats: <a href="https://github.com/agray"><img src="https://komarev.com/ghpvc/?username=agray&label=Profile+Views&color=2e8b57&style=flat"/></a>
 
 <p align="center">
-<a href="https://github.com/agray">
-  <img src="https://github-readme-stats.vercel.app/api?username=agray&count_private=true&show_icons=true&theme=dark"/></a>
-<a href="https://github.com/agray/">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agray&layout=compact&theme=dark"/></a>
-<p>&nbsp;</p>
+	<a href="https://github.com/agray">
+	  <img src="https://github-readme-stats.vercel.app/api?username=agray&count_private=true&show_icons=true&theme=dark"/>
+	</a>
+	<a href="https://github.com/agray/">
+	  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agray&layout=compact&theme=dark"/>
+	</a>
+	<a href="https://github.com/agray/">
+	  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agray&theme=dark" alt="agray" />
+	</a>
+</p>
 
