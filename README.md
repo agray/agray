@@ -11,11 +11,9 @@
 
 ## ☎️ Contact Me:
 
-[![Gmail Badge](https://img.shields.io/badge/-andrew.paul.gray@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:andrew.paul.gray@gmail.com)](mailto:andrew.paul.gray@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/andrewpaulgray/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrewpaulgray/)](https://www.linkedin.com/in/andrewpaulgray/)
 [![Github Badge](https://img.shields.io/badge/-agray-grey?style=flat&logo=github&logoColor=white&link=https://github.com/agray/)](https://www.github.com/agray/)
 [![Github Badge](https://img.shields.io/badge/-sauceforge-grey?style=flat&logo=github&logoColor=white&link=https://github.com/sauceforge/)](https://www.github.com/sauceforge/)
-[![Twitter Badge](https://img.shields.io/badge/-https://twitter.com/agrayz-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/agrayz/)](https://twitter.com/agrayz/)
 <!-- ([![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://agray.github.io/)](https://agray.github.io/))-->
 
 ## 📈 My Stats: <a href="https://github.com/agray"><img src="https://komarev.com/ghpvc/?username=agray&label=Profile+Views&color=2e8b57&style=flat"/></a>
