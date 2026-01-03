@@ -26,7 +26,7 @@
 	  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agray&layout=compact&theme=dark"/>
 	</a>
 	<a href="https://github.com/agray/">
-	  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agray&theme=dark" alt="agray" />
+	  <img align="center" src="https://streak-stats.demolab.com/?user=agray&theme=dark" alt="agray" />
 	</a>
 </p>
 
